@@ -101,7 +101,7 @@ print("Hello World")
 
 按下 `Ctrl+Enter` 執行，區塊底下就會出現程式碼的輸出結果！
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729164214736.png" alt="image-20230729164214736" style="zoom:25%;" />
+<img src="image-20230729164214736.png" alt="image-20230729164214736" style="zoom:25%;" />
 
 除了輸出之外，我們也可以使用 `input()` 讀取使用者的輸入內容：
 
@@ -110,7 +110,7 @@ name = input()
 print("Hello,", name)
 ```
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729164513687.png" alt="image-20230729164513687" style="zoom:25%;" />
+<img src="image-20230729164513687.png" alt="image-20230729164513687" style="zoom:25%;" />
 
 Jupyter Notebook 會跳出視窗請使用者輸入一段文字，該文字隨即被 `input()` 函數吸收並將其「指派」給 `name` 變數（將會在下一節詳細介紹），並由接下來的 `print("Hello,", name)` 處理輸出。
 
@@ -122,7 +122,7 @@ print('1','2','3')
 
 的輸出結果會是
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729165058058.png" alt="image-20230729165058058" style="zoom:25%;" />
+<img src="image-20230729165058058.png" alt="image-20230729165058058" style="zoom:25%;" />
 
 若我們想要指定**分隔字元**，可以使用 `print()`函數中的  `sep`，舉例來說：
 
@@ -132,7 +132,7 @@ print('1','2','3', sep='|')
 
 的輸出結果會是
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729165444323.png" alt="image-20230729165444323" style="zoom:25%;" />
+<img src="image-20230729165444323.png" alt="image-20230729165444323" style="zoom:25%;" />
 
 Python 預設使用 `print()` 輸出內容後會在結尾 **自動換行**
 
@@ -141,7 +141,7 @@ print('1', '2', '3')
 print('4', '5', '6')
 ```
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729165826867.png" alt="image-20230729165826867" style="zoom:25%;" />
+<img src="image-20230729165826867.png" alt="image-20230729165826867" style="zoom:25%;" />
 
 若我們想要替換掉結尾的換行效果，可以使用 `print()`函數中的  `end` 指定輸出結尾所放置的字元，舉例來說：
 
@@ -150,7 +150,7 @@ print('1', '2', '3', end=' ')
 print('4', '5', '6')
 ```
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch1_introduction/image-20230729165957202.png" alt="image-20230729165957202" style="zoom:25%;" />
+<img src="image-20230729165957202.png" alt="image-20230729165957202" style="zoom:25%;" />
 
 
 
