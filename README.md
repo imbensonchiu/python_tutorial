@@ -5,7 +5,7 @@ This is the material for Python at NTU IM Camp 2024.
 
 | 單元 | 範圍                                                         | 講義＋影片 |
 | ---- | ------------------------------------------------------------ | ---------- |
-| 1    | 環境建置＋ Hello World                                       | Both       |
+| 1    | [環境建置＋ Hello World](./ch1_introduction/intro.md)        | Both       |
 | 2    | 變數宣告 / 資料型別 / 運算子                                 | Debbie     |
 | 3    | 判斷 (if-elif-else)                                          | Debbie     |
 | 4    | 串列 (list)                                                  | Debbie     |
