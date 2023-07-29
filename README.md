@@ -8,7 +8,7 @@ This is the material for Python at NTU IM Camp 2024.
 | 1    | 環境建置＋ Hello World                              | Both       |
 | 2    | 變數宣告 / 資料型別 / 運算子                        | Debbie     |
 | 3    | 判斷 (if-elif-else)                                 | Debbie     |
-| 4    | 串列 (list)                                         | Debbie     |
+| 4    | [串列 (list)](./ch4_list.md)                        | Debbie     |
 | 5    | [迴圈 (while, for)](./ch5_loops_handout/loops.md)   | Benson     |
 | 6    | [字串 (string)](./ch6_string_handout/string.md)     | Benson     |
 | 7    | 字典 (dictionary) 與集合(set), 元組(tuple)          | Debbie     |
