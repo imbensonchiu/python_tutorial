@@ -58,7 +58,7 @@ say_goodbye("Python") # NameError
 
 在資管營的課程中，請大家務必熟記以下三種引用模組 / 套件的常用方式：
 
-<img src="/Users/bensonchiu/Documents/Documents/112-S/python_tutorial/ch9_modules_handout/image-20230730131022782.png" alt="image-20230730131022782" style="zoom:33%;" />
+<img src="1.png" alt="image-20230730131022782" style="zoom:33%;" />
 
 ## 內建模組：以 math 和 datetime 為例
 

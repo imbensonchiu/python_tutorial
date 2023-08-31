@@ -13,7 +13,7 @@ This is the material for Python at NTU IM Camp 2024.
 | 6    | [字串 (string)](./ch6_string_handout/string.md)     | Benson     |
 | 7    | [字典 (dictionary) 與集合(set), 元組(tuple)](https://hackmd.io/@S0oLn3AFQO-Aotu3wiWMOw/SyVcuxOqn)          | Debbie     |
 | 8    | [函式 (function)](https://hackmd.io/@S0oLn3AFQO-Aotu3wiWMOw/SJoGt-_52)                                     | Debbie     |
-| 9    | [物件 (objects) 與類別 (classes) 的基本概念](./ch9_object_and_classes/object_and_classes.md) | Benson     |
+| 9    | [物件 (objects) 與類別 (classes) 的基本概念](./ch9_objects_and_classes/object_and_classes.md) | Benson     |
 | 10   | [模組 (modules) 與套件 (packages)](./ch10_modules_handout/modules_and_packages.md) | Benson     |
 | 11   | [進階] 淺談物件導向程式設計 (Object-Oriented Programming)    | Benson     |
 | 12   | [進階] 檔案處理 (file I/O) + 例外處理                        | Debbie     |
