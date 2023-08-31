@@ -30,7 +30,7 @@ Python 是一個**高階程式語言**，由 Guido van Rossum 於 1991 年首度
 
 - 數值運算與資料分析：[SciPy](http://scipy.org/), [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
 - 網頁爬蟲與資料擷取：[Requests](https://pypi.org/project/requests/), [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
-- 機器學習與深度學習：[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras: Deep Learning for humans](https://keras.io/)
+- 機器學習與深度學習：[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/)
 - 網頁開發框架：[Django](http://www.djangoproject.com/) 
 
 ## 環境安裝 - Jupyter Notebook
